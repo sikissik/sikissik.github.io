@@ -1,85 +1,19 @@
 
-@font-face{
-    src: url("../fonts/SquareSansB.ttf");
-    font-family: "square";
-}
-*{
-    box-sizing: border-box;
-}
-
 
 body{   
-    height: 100%;
-    margin: 0px;
-    background-color: black;
+    padding: 24px 80px;
 }
+
 h1{
-    font-family: "square";
-    text-align: center;
-    margin-bottom: 12px;
-
-}
-.bg-image{
-    background-image: url("../images/bg.jpg");
-    filter: blur(4px);
-    -webkit-filter: blur(4px);
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transform: scale(1.2);
+    font-size: 6vw;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-
-.login{
-    position: absolute;
-    top: 50%;
-    left: 50%;  
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    width: 480px;
-    padding: 12px 62px 62px 62px;
-    background-color: #ffffff;
-    
-}
-
-.text-field{
-    padding: 12px 2px;
-    width: 100%;
-    font-size: 16px;
-    font-family: "square";
-    color: #000000;
-    border: none;
-    border-bottom: 2px solid black;
-    margin-bottom: 24px;
-}
-
-.text-field::placeholder{
-    color: #cccccc
-}
-
-.text-field:focus{
-    outline: none;
-}
-
-.submit-btn{
-    vertical-align:middle;
-    background-color: black;
-    color: #ffffff;
-    height: 58px;
-    font-family: "square";
-    width: 100%;
-    border: none;
-    
-}
-
-.submit-btn:hover{
-    background-color: rgba(48, 28, 28, 0.795);
-}
-
-i{
-    position: relative;
-    bottom: -0.2ex;
-    margin-right: 6px;
-    font-size: 12px;
+.p1{
+    font-size: 24px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 900;
+    font-style: normal;
 }
