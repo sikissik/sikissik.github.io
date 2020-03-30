@@ -1,41 +1,21 @@
-
-
-body{   
-    padding: 24px 80px;
+.title {
+  margin-left: 80px;
+  margin-right: 80px;
+  font-size: 6vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
 }
 
-h1{
-    font-size: 6vw;
-    font-family: 'Muli', sans-serif;
-    font-weight: 400;
-    font-style: normal;
+.title1 {
+  line-height: -1px;
+  font-size: 6vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
 }
-
-h2{
-    height: 6vw;
-    margin-top: 0;
-    font-size: 24px;
-    font-family: 'Muli', sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    display: inline;
+.title2 {
+  padding-top: 2em;
+  margin-left: 0.5em;
+  font-size: 1.3vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 900;
 }
-
-.h1{
-    margin-top: 0px;
-    font-size: 6vw;
-    font-family: 'Muli', sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    display: inline;
-}
-
-
-
-.p1{
-    font-size: 24px;
-    font-family: 'Muli', sans-serif;
-    font-weight: 900;
-    font-style: normal;
-}
-

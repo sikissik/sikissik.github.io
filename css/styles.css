@@ -1,23 +1,21 @@
-
-
-.title{
-    margin-left: 80px;
-    margin-right: 80px;
-    font-size: 6vw;
-    font-family: 'Muli', sans-serif;
-    font-weight: 400;
+.title {
+  margin-left: 80px;
+  margin-right: 80px;
+  font-size: 6vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
 }
 
-.title1{
-    line-height: -1px;
-    font-size: 6vw;
-    font-family: 'Muli', sans-serif;
-    font-weight: 400;
+.title1 {
+  line-height: -1px;
+  font-size: 6vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 300;
 }
-.title2{
-    padding-top: 2em;
-    margin-left: 0.5em;
-    font-size: 1.3vw;
-    font-family: 'Muli', sans-serif;
-    font-weight: 900;
+.title2 {
+  padding-top: 2em;
+  margin-left: 0.5em;
+  font-size: 1.3vw;
+  font-family: "Muli", sans-serif;
+  font-weight: 900;
 }
