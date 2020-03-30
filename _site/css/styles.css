@@ -11,9 +11,31 @@ h1{
     font-style: normal;
 }
 
+h2{
+    height: 6vw;
+    margin-top: 0;
+    font-size: 24px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline;
+}
+
+.h1{
+    margin-top: 0px;
+    font-size: 6vw;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline;
+}
+
+
+
 .p1{
     font-size: 24px;
     font-family: 'Muli', sans-serif;
     font-weight: 900;
     font-style: normal;
 }
+
